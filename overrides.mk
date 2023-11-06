@@ -1,0 +1,1 @@
+DEFAULT_BASEIMAGE="image-1"
